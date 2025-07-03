@@ -2,6 +2,8 @@
 
 This project lets you interact with your Excel or CSV data using natural language. Just upload a file, ask a question like “What is the total sales for product line Health and beauty?”, and the app will convert it into SQL using Gemini LLM and display the results.
 
+💼 It’s especially useful for managers or non sql users who want quick, data-driven insights without writing SQL queries.
+
 ---
 
 ### 🚀 Features
